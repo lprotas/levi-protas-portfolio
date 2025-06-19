@@ -28,6 +28,21 @@ A Single Page Application that enables users to log and track exercises via a Re
 
 ---
 
+### 🗃️ Optimized HashMap with Quadratic Probing  
+A Python HashMap implementation using open addressing and quadratic probing to resolve collisions efficiently. Features dynamic resizing, tombstone markers, and iteration support.
+
+**Tech Stack:** Python, Data Structures, Algorithms
+(https://github.com/lprotas/Optimized-HashMap-Implementation-with-Quadratic-Probing)
+
+---
+
+**Key Features:**  
+- 🔄 Collision resolution via quadratic probing  
+- ↕️ Dynamic resizing based on load factor  
+- 🏷️ Tombstone markers for removed entries  
+- 🔍 Efficient key lookup, insertion, and removal  
+- 🔁 Iterable implementation to traverse key/value pairs  
+
 **Key Features:**
 - 🏃 Log, edit, and delete exercises with detailed info  
 - 📅 View exercise history by date  
