@@ -45,9 +45,26 @@ A Python HashMap implementation using open addressing and quadratic probing to r
 
 ---
 
+### 🌡️ Temperature Reverser – x86 Assembly  
+An assembly language program that reads a list of temperatures from a file, converts them from strings to integers, and prints them in reverse order.
+
+**Tech Stack**: x86 Assembly (MASM), Runtime Stack, Macros  
+[https://github.com/leviprotas/temperature-reverser](https://github.com/leviprotas/temperature-reverser) <!-- Replace with actual URL -->
+
+---
+
+**Key Features:**  
+- 📂 File input using low-level system calls  
+- 🔁 Reverses list of temperature values  
+- 📥 Custom macros for I/O and string parsing  
+- 📦 Strict runtime stack parameter passing  
+- 🧠 Designed with modular procedure structure in MASM
+
 **Key Features:**  
 - 🔄 Collision resolution via quadratic probing  
 - ↕️ Dynamic resizing based on load factor  
-- 🏷️ Tombstone markers for removed entries  
+- 🏷️ Tombstone markers for removed entries
+
+---
 - 🔍 Efficient key lookup, insertion, and removal  
 - 🔁 Iterable implementation to traverse key/value pairs
