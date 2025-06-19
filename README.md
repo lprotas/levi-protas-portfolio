@@ -7,7 +7,7 @@ This portfolio highlights selected software and data projects.
 A web-based business management system designed for a custom window coverings company. The system tracks customers, products, invoices, and order details to streamline operations.
 
 **Tech Stack**: Node.js, Express, MySQL, Handlebars, CSS  
-[🔗 View Project Repository]([https://github.com/leviprotas/window-coverings-management](https://github.com/lprotas/Protas-Window-Coverings-Management-System/tree/main))
+[https://github.com/leviprotas/window-coverings-management](https://github.com/lprotas/Protas-Window-Coverings-Management-System/tree/main)
 
 ---
 
